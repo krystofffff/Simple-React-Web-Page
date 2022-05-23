@@ -1,0 +1,14 @@
+{
+  "visits": [
+    {
+      "id": 1,
+      "date": "2022-04-14",
+      "reason": "Bored at home"
+    },
+    {
+      "id": 2,
+      "date": "2022-04-15",
+      "reason": "Bored at home again"
+    }
+  ]
+}
