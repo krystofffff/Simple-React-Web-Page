@@ -22,7 +22,7 @@ const columns = (handleEdit, handleRemove) => [
         name: "date",
         label: "Date",
         options: {
-            sort: false,
+            sort: true,
         }
     },
     {
